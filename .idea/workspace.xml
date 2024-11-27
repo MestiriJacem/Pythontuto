@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="adding a variable to a text">
+    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="printing and adding it to a string">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732694574191</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="adding a variable to a text using the f">
+      <option name="closed" value="true" />
+      <created>1732694696094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694696094</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Integers">
+      <option name="closed" value="true" />
+      <created>1732694797643</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694797643</updated>
+    </task>
+    <task id="LOCAL-00011" summary="printing and adding it to a string">
+      <option name="closed" value="true" />
+      <created>1732694845035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694845035</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +157,9 @@
     <MESSAGE value="adding a string variable" />
     <MESSAGE value="printing the first_name variable" />
     <MESSAGE value="adding a variable to a text" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a variable to a text" />
+    <MESSAGE value="adding a variable to a text using the f" />
+    <MESSAGE value="Integers" />
+    <MESSAGE value="printing and adding it to a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="printing and adding it to a string" />
   </component>
 </project>
