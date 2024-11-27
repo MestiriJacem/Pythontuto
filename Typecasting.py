@@ -10,3 +10,6 @@ print(type(name))
 #converting a float to an integer
 score = int(score)
 print(score)
+#converting an integer to a float
+age = float(age)
+print(age)
