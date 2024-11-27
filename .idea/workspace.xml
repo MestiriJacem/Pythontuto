@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="adding a string variable">
+    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="adding a variable to a text">
       <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Variables.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732694379810</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="printing the first_name variable">
+      <option name="closed" value="true" />
+      <created>1732694442944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694442944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding a variable to a text">
+      <option name="closed" value="true" />
+      <created>1732694574191</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732694574191</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +130,8 @@
     <MESSAGE value="adding comments" />
     <MESSAGE value="adding another file for variables" />
     <MESSAGE value="adding a string variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a string variable" />
+    <MESSAGE value="printing the first_name variable" />
+    <MESSAGE value="adding a variable to a text" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a variable to a text" />
   </component>
 </project>
