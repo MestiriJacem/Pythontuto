@@ -5,3 +5,5 @@ name="fatma farhat"
 age= 25
 score=9
 is_student =True
+
+print(type(name))
