@@ -3,7 +3,10 @@
 
 name="fatma farhat"
 age= 25
-score=9
+score=9.2
 is_student =True
 #printing variable type
 print(type(name))
+#converting a float to an integer
+score = int(score)
+print(score)
