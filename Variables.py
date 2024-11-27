@@ -9,3 +9,4 @@ print (f"Your email is {email}")
 
 #-2Integers
 age =25
+print (f"You are {age} years old")
