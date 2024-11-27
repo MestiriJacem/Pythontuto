@@ -12,3 +12,6 @@ age =25
 quantity= 3
 print (f"You are {age} years old")
 print (f"You are buying {quantity} items ")
+#3float
+price =10.99
+print(price)
