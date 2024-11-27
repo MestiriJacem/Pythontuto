@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="printing and adding it to a string">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
+    <list default="true" id="92771ff1-6b9b-45b3-8477-cc62b6987bc5" name="Changes" comment="printing booleans">
+      <change afterPath="$PROJECT_DIR$/Typecasting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,9 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2pQMWtrkm2Yc1RJ1A08OJg6JU4A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,7 +146,39 @@
       <option name="project" value="LOCAL" />
       <updated>1732694845035</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="printing and adding it to a string">
+      <option name="closed" value="true" />
+      <created>1732695849365</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732695849365</updated>
+    </task>
+    <task id="LOCAL-00013" summary="floats">
+      <option name="closed" value="true" />
+      <created>1732695912323</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732695912323</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Booleans">
+      <option name="closed" value="true" />
+      <created>1732696022657</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732696022657</updated>
+    </task>
+    <task id="LOCAL-00015" summary="printing booleans">
+      <option name="closed" value="true" />
+      <created>1732696129495</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732696129495</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +193,9 @@
     <MESSAGE value="adding a variable to a text using the f" />
     <MESSAGE value="Integers" />
     <MESSAGE value="printing and adding it to a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="printing and adding it to a string" />
+    <MESSAGE value="floats" />
+    <MESSAGE value="Booleans" />
+    <MESSAGE value="printing booleans" />
+    <option name="LAST_COMMIT_MESSAGE" value="printing booleans" />
   </component>
 </project>
