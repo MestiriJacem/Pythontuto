@@ -15,3 +15,4 @@ print (f"You are buying {quantity} items ")
 #3float
 price =10.99
 print(price)
+#4-boolean
