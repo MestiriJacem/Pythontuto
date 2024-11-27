@@ -16,3 +16,5 @@ print (f"You are buying {quantity} items ")
 price =10.99
 print(price)
 #4-boolean
+is_student=False
+print(f"Are you a student?: {is_student}")
