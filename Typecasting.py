@@ -16,3 +16,6 @@ print(age)
 #converting an age to a string
 age=str(age)
 print(type(age))
+#converting a string too boolean
+name=bool(name)
+print(name)
